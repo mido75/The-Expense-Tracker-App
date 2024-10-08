@@ -17,7 +17,7 @@ A simple and intuitive mobile application to track your expenses, built with Rea
   2) JavaScript: The programming language used for development.
   3) Firebase: For cloud storage, user authentication, and real-time database functionality.
   4) Context API: For state management.
-  5) Hermes: A JavaScript engine optimized for running React Native applications.
+  
 
 
 
